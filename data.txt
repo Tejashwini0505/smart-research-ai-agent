@@ -1,0 +1,4 @@
+Agentic AI systems can make autonomous decisions.
+RAG combines retrieval and generation.
+Vector databases store embeddings for similarity search.
+LLMs use transformers for language modeling.
